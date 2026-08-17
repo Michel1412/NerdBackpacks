@@ -1,0 +1,21 @@
+{
+  "item.nerdbackpacks.saco": "Saco",
+  "item.nerdbackpacks.mochila_1": "Mochila Nível I",
+  "item.nerdbackpacks.mochila_2": "Mochila Nível II",
+  "item.nerdbackpacks.mochila_3": "Mochila Nível III",
+  "item.nerdbackpacks.mochila_4": "Mochila Nível IV",
+  "item.nerdbackpacks.mochila_5": "Mochila Nível V",
+  "block.nerdbackpacks.mochila_1": "Mochila Nível I",
+  "block.nerdbackpacks.mochila_2": "Mochila Nível II",
+  "block.nerdbackpacks.mochila_3": "Mochila Nível III",
+  "block.nerdbackpacks.mochila_4": "Mochila Nível IV",
+  "block.nerdbackpacks.mochila_5": "Mochila Nível V",
+  "itemGroup.nerdbackpacks": "Nerd Backpacks",
+  "container.nerdbackpacks.backpack": "Mochila",
+  "config.jade.plugin_nerdbackpacks.backpack": "Conteúdo da Mochila",
+  "nerdbackpacks.jade.hold_shift": "Segure Shift para o conteúdo",
+  "nerdbackpacks.jade.empty": "Vazia",
+  "curios.identifier.chest": "Peito",
+  "key.categories.nerdbackpacks": "Nerd Backpacks",
+  "key.nerdbackpacks.open_backpack": "Abrir Mochila Equipada"
+}

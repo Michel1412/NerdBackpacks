@@ -1,0 +1,23 @@
+{
+  "type": "nerdbackpacks:backpack_crafting",
+  "category": "equipment",
+  "pattern": [
+    "S S",
+    "BSB",
+    "LLL"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "B": {
+      "item": "nerdbackpacks:saco"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "nerdbackpacks:mochila_1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "nerdbackpacks:backpack_crafting",
+  "category": "equipment",
+  "pattern": [
+    "DED",
+    "BNB",
+    "EDE"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "B": {
+      "item": "nerdbackpacks:saco"
+    },
+    "N": {
+      "item": "nerdbackpacks:mochila_3"
+    }
+  },
+  "result": {
+    "item": "nerdbackpacks:mochila_4"
+  }
+}

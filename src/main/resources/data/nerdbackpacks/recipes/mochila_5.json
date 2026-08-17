@@ -1,0 +1,36 @@
+{
+  "type": "nerdbackpacks:backpack_crafting",
+  "category": "equipment",
+  "pattern": [
+    "CTC",
+    "BNB",
+    "WSW"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "T": {
+      "type": "forge:partial_nbt",
+      "item": "minecraft:potion",
+      "nbt": {
+        "Potion": "minecraft:water"
+      }
+    },
+    "B": {
+      "item": "nerdbackpacks:saco"
+    },
+    "N": {
+      "item": "nerdbackpacks:mochila_4"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "nerdbackpacks:mochila_5"
+  }
+}

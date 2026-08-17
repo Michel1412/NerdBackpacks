@@ -1,0 +1,26 @@
+{
+  "type": "nerdbackpacks:backpack_crafting",
+  "category": "equipment",
+  "pattern": [
+    "LIL",
+    "BNB",
+    "LIL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "nerdbackpacks:saco"
+    },
+    "N": {
+      "item": "nerdbackpacks:mochila_1"
+    }
+  },
+  "result": {
+    "item": "nerdbackpacks:mochila_2"
+  }
+}

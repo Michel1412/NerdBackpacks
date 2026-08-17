@@ -1,0 +1,26 @@
+{
+  "type": "nerdbackpacks:backpack_crafting",
+  "category": "equipment",
+  "pattern": [
+    "GLG",
+    "BNB",
+    "LGL"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "B": {
+      "item": "nerdbackpacks:saco"
+    },
+    "N": {
+      "item": "nerdbackpacks:mochila_2"
+    }
+  },
+  "result": {
+    "item": "nerdbackpacks:mochila_3"
+  }
+}
